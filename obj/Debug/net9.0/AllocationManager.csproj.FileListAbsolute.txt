@@ -1,0 +1,15 @@
+C:\_git\job\uninove\uni9-allocation-manager\bin\Debug\net9.0\AllocationManager.exe
+C:\_git\job\uninove\uni9-allocation-manager\bin\Debug\net9.0\AllocationManager.deps.json
+C:\_git\job\uninove\uni9-allocation-manager\bin\Debug\net9.0\AllocationManager.runtimeconfig.json
+C:\_git\job\uninove\uni9-allocation-manager\bin\Debug\net9.0\AllocationManager.dll
+C:\_git\job\uninove\uni9-allocation-manager\bin\Debug\net9.0\AllocationManager.pdb
+C:\_git\job\uninove\uni9-allocation-manager\obj\Debug\net9.0\AllocationManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\_git\job\uninove\uni9-allocation-manager\obj\Debug\net9.0\AllocationManager.AssemblyInfoInputs.cache
+C:\_git\job\uninove\uni9-allocation-manager\obj\Debug\net9.0\AllocationManager.AssemblyInfo.cs
+C:\_git\job\uninove\uni9-allocation-manager\obj\Debug\net9.0\AllocationManager.csproj.CoreCompileInputs.cache
+C:\_git\job\uninove\uni9-allocation-manager\obj\Debug\net9.0\AllocationManager.sourcelink.json
+C:\_git\job\uninove\uni9-allocation-manager\obj\Debug\net9.0\AllocationManager.dll
+C:\_git\job\uninove\uni9-allocation-manager\obj\Debug\net9.0\refint\AllocationManager.dll
+C:\_git\job\uninove\uni9-allocation-manager\obj\Debug\net9.0\AllocationManager.pdb
+C:\_git\job\uninove\uni9-allocation-manager\obj\Debug\net9.0\AllocationManager.genruntimeconfig.cache
+C:\_git\job\uninove\uni9-allocation-manager\obj\Debug\net9.0\ref\AllocationManager.dll
