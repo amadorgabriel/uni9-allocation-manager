@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AllocationManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3306ff88cff719f857eec054e47622fd30c65b83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+488308ad3afd6cb6f594da53904ed3419b57e8ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("AllocationManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AllocationManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
